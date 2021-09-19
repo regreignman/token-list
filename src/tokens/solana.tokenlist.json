@@ -1,4 +1,15 @@
 {
+  "chainID": 101,
+  "address": 2vPZYNY6K2bPViGh3KgWnbvvTkjdavhDxWTE7Xjnh6ZS
+  "symbol": LENEUS
+  "name": Leneus Token
+  "decimals": 2,
+  "logoURI": "https://photos.google.com/photo/AF1QipN5wXCaUKr2FAYfxAdOea__MoWHcieAZmCzgkhP",  
+  "tags": [
+  "extensions": {
+  "website": "https://www.instagram.com/regreignman/"
+}
+
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
